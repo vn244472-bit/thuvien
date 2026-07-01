@@ -20,5 +20,3 @@ Linked List: Danh sách liên kết tuyến tính giúp quản lý danh sách đ
 
 Biên dịch Chương trình chính:
 Chạy lệnh sau trên terminal/cmd tại thư mục src/:
-
-g++ -std=c++17 main.cpp functions.cpp -o library_app
