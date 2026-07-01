@@ -12,3 +12,4 @@
 Chạy lệnh sau trên terminal/cmd tại thư mục `src/`:
 ```bash
 g++ -std=c++17 main.cpp functions.cpp -o library_app
+ 
