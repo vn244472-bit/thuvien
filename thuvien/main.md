@@ -1,6 +1,4 @@
-# 📚 Hệ thống Quản lý Thư viện CLI (C++17)
-
-Đồ án phân tích cấu trúc dữ liệu ứng dụng thực tế để quản lý sách, độc giả và quy trình mượn trả tự động hóa. Đảm bảo viết thủ công các node liên kết không lạm dụng STL Container.
+# 📚 Hệ thống Quản lý Thư viện 
 
 ## 🛠️ Cấu trúc dữ liệu áp dụng
 * **Binary Search Tree (BST):** Lưu trữ danh mục sách giúp tối ưu hóa việc tìm kiếm từ dữ liệu lớn chỉ mất $O(\log n)$.
